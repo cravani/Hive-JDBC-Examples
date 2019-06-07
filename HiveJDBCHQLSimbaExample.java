@@ -56,4 +56,5 @@ public class HiveJDBCHQLSimbaExample {
 	    {
 	        if (st != null) st.close();
 	    }
-	}}
+	}
+}
