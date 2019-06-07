@@ -1,3 +1,4 @@
+
 import com.simba.hive.jdbc4.HS2Driver;
 import java.sql.SQLException;
 import java.sql.Connection;
