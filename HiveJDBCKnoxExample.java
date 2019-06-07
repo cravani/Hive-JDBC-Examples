@@ -1,3 +1,4 @@
+
 import org.apache.hive.jdbc.HiveDriver;
 import java.sql.SQLException;
 import java.sql.Connection;
