@@ -1,4 +1,4 @@
-import java.sql. * ;
+import java.sql.* ;
 public class HiveKRBJDBC {
 	public static void main(String[] args) throws Exception {
 		Class.forName("com.simba.hive.jdbc4.HS2Driver");
